@@ -1,0 +1,12 @@
+{
+  "name": "rixsor",
+  "version": "0.1.0",
+  "description": "Rixsor — trilingual personal AI assistant with voice, avatar and chat.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
